@@ -6,7 +6,7 @@ mysql -u root -p < database.sql
 
 if you want to send email notification, please put email details to email.php in includes folder.  That's all.  
 
-Please tell me if there is any iussues or suggest any new features in discussion
+Please tell me if there is any iussues or suggest any new features in discussions
 
 You can try it in my testing lab as below.  The admin access is 2025
 

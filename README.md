@@ -10,4 +10,4 @@ Please tell me if there is any iussues or suggest any new features in discussion
 
 You can try it in my testing lab as below.  The admin access is 2025
 
-http://submitrecords.freeddns.org/web-records/index.php
+http://summitrecords.freeddns.org/web-records/index.php
